@@ -1,0 +1,7 @@
+A collection of python modules 
+
+deb.py: writes a debug message when enabled
+
+logger.py: writes to a log (creating if need, appending otherwise)
+
+py_template: a generic python template
