@@ -30,7 +30,7 @@ def dprint(flag, message, ts=False):
 
 	return True
 
-def test():
+def testDPrint():
 	"""
 	Testing function for debug modules
 	"""
@@ -72,4 +72,4 @@ if __name__ == "__main__":
 	for standalone run of debug modules, contains call to test funciton
 	"""
 
-	test()
+	testDPrint()
