@@ -4,4 +4,6 @@ deb.py: writes a debug message when enabled
 
 logger.py: writes to a log (creating if need, appending otherwise)
 
+notify.py: sends email
+
 py_template: a generic python template
