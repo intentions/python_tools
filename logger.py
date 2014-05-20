@@ -114,6 +114,7 @@ def testLogWrite():
 	try:
 		os.remove(logfile)
 	except OSError:
+                print "OSError found: " + str(OSError)
 		assert False
 		return False
 
