@@ -10,4 +10,4 @@ versionFinder:  Finds the versions of packages, provided they have a <package>.v
 
 py_template: a generic python template
 
-random
+py_template: a generic python template
