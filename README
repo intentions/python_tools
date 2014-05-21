@@ -9,5 +9,3 @@ notify.py: sends email
 versionFinder:  Finds the versions of packages, provided they have a <package>.version.version file
 
 py_template: a generic python template
-
-py_template: a generic python template
