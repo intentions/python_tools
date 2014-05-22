@@ -18,12 +18,6 @@ def versionFinder(moduleName):
 
 def testversionFinder():
 	#does not work on python3
-	import sys
-	if sys.version_info.major != 2:
-		err_message = "warning, python version not version 2, test not set for python3"
-		sys.stderr.write (err_message)
-		assert False
-		return False
 
 	testPackage = 'numpy'
 	O = versionFinder(testPackage)
