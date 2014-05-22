@@ -1,4 +1,5 @@
-A collection of python modules 
+A collection of python modules, largely a test of different python features as it relates to 
+common tasks.
 
 deb.py: writes a debug message when enabled
 
