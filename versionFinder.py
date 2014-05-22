@@ -18,7 +18,6 @@ def versionFinder(moduleName):
 
 def testversionFinder():
 	#does not work on python3
-
 	testPackage = 'numpy'
 	O = versionFinder(testPackage)
 
